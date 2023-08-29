@@ -14,6 +14,6 @@
 
 <p>
   <a href="https://chat-room-client-livid.vercel.app">
-    <img src="https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,bootstrap,git,github,docker,html,css,materialui,d3,firebase&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,sass,bootstrap,git,github,docker,html,css,materialui,d3,firebase&perline=7" />
   </a>
 </p>
