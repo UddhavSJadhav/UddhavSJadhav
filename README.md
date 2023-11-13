@@ -5,6 +5,7 @@
 - 🤓 Self-taught Programmer
 - ✨ React, Node.js, MongoDB
 - 📫 You can reach me via LinkedIn - [Uddhav S Jadhav](www.linkedin.com/in/uddhav-sj)
+- 🤖 LeetCode - [Uddhav S Jadhav](https://leetcode.com/UddhavSJadhav/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UddhavSJadhav&label=Profile%20views&color=0e75b6&style=flat" alt="UddhavSJadhav" /> </p>
 
