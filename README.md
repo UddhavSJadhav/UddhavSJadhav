@@ -14,7 +14,7 @@
 ### Skills
 
 <p>
-  <a href="https://chat-room-client-livid.vercel.app">
-    <img src="https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,sass,bootstrap,git,github,docker,html,css,materialui,d3,firebase&perline=7" />
+  <a href="https://github.com/UddhavSJadhav/remoteok-clone">
+    <img src="https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,tailwind,next,sass,bootstrap,git,github,docker,html,css,materialui,d3,firebase&perline=7" />
   </a>
 </p>
